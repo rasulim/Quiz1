@@ -29,9 +29,7 @@ public class mesele4 {
 
         sc.close();
 
-        System.err.println(counter);
-        System.out.println(sum);
-        System.out.println(sum/counter);
-
+        System.out.println("Ədədlərin cəmi: " +sum);
+        System.out.println("Ədədlərin ortalaması: "+sum/counter);
     }
 }
